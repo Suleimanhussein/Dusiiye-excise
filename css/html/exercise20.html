@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .all {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            padding: 15px;
+
+        }
+
+        .all div {
+            background-color: #e711e3;
+            color: white;
+            padding: 25px;
+            text-align: center;
+
+
+        }
+
+        .item1 {
+            grid-column: 1 / span 2;
+            grid-row: 1 / span 2;
+            background-color: #e711e3;
+            color: white;
+            padding: 55px;
+            font-size: 30px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="all">
+        <div class="item1">item1</div>
+        <div>item2</div>
+        <div>item3</div>
+        <div>item1</div>
+        <div>item1</div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,70 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+    line-height: 1.7;
+}
+
+
+
+.box {
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 20px 0;
+    width: 200px;
+    background-color: #ffffff;
+}
+
+.practice-box {
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 220px;
+    background-color: #fff;
+}
+
+.solid {
+    border: 3px solid #333;
+}
+
+.dashed {
+    border: 2px dashed red;
+}
+
+.dotted {
+    border: 2px dotted green;
+}
+
+.quote {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #ffffff;
+    width: 70%;
+}
+
+#quote1 {
+    border: 3px solid #4f46e5;
+}
+
+#quote2 {
+    border: 3px dashed #dc2626;
+    background-color: #fff7f7;
+    text-align: center;
+}
+
+#quote3 {
+    border: 3px dotted #16a34a;
+    background-color: #f6fff9;
+}
+
+#quote4 {
+    border: 5px double #7c3aed;
+    background-color: #faf5ff;
+    font-style: italic;
+}
+
+code {
+    background-color: #eee;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+

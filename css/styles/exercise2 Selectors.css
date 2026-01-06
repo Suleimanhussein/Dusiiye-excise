@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    margin: 20px 30px;
+}
+
+#title{
+    color: blue;
+    font-weight: bold;
+    
+}
+.basics{
+    background-color:  greenyellow;
+}
+
+.media{
+    background-color: hotpink;
+}
+
+.semantic{
+    background-color:brown;
+    color: white;
+}
+
+.tables{
+    background-color: orange;
+}
+
+.forms{
+    background-color: deepskyblue;
+}

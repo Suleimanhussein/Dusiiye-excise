@@ -1,0 +1,45 @@
+
+.content-box1 {
+    background-color: #b610e4;
+    width: 300px;
+    margin: 20px ;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 55px 0;
+}
+
+.content-box2 {
+    background-color: #b610e4;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 55px 0;
+}
+
+.content-box3 {
+    background-color: #b610e4;
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 55px 0;
+}
+.navbar {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 13px;
+    margin-top: 40px;
+}

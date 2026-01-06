@@ -1,0 +1,25 @@
+#div1 {
+    display: block;
+    background-color: #de4f08;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#span1 {
+    display: inline;
+    background-color: #de0cf1;
+    color: white;
+    padding: 5px;
+}
+
+#div2 {
+    display: none;
+}
+
+#span2 {
+    display: block;
+    background-color: #0cf14d;
+    padding: 10px;
+    margin-top: 10px;
+}

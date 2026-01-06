@@ -1,0 +1,61 @@
+.header {
+    background-color: #ff7b00;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.about {
+    padding: 20px;
+    margin: 15px 0;
+}
+.webdevelopment {
+    background-color: #be07f6;
+        color: #ffffff;
+        padding: 15px;
+        margin: 7px 0;
+}
+
+.mobiledevelopment {
+    background-color: #be07f6;
+    color: #ffffff;
+    padding: 15px;
+    margin: 7px 0;
+}
+
+
+
+.testimonials h2 {
+    color: #343a40;
+    margin-bottom: 15px;
+    
+}
+
+
+
+.testimonial1 {
+    background-color: #ffc107;
+    color: #212529;
+    padding: 19px;
+    margin: 5px;
+}
+
+.testimonial2 {
+    background-color: #17a2b8;
+    color: #ffffff;
+    padding: 19px;
+    margin: 5px;
+}
+
+.testimonial3 {
+    background-color: #6f42c1;
+    color: #ffffff;
+    padding: 19px;
+    margin: 5px;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+    padding: 15px;
+}
