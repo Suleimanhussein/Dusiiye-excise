@@ -5,6 +5,7 @@ let studet = {
   address: "mogadishu",
 };
 
+
 console.log(studet);
 console.log(studet.name);
 console.log(studet.address);
